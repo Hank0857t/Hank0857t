@@ -1,28 +1,29 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm <span style="color:#00D9FF">Hank</span>
 
-### <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00D9FF&center=true&vCenter=true&width=650&height=50&lines=Backend+Developer;Python+|+Java+Expert;FastAPI+·+Django+·+DRF+Spectacular;Prompter+Professional;Building+Scalable+APIs">
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=39FF14&center=true&vCenter=true&width=600&height=50&lines=Backend+Developer;Python+%26+Java+Expert;FastAPI+%C2%B7+Django+%C2%B7+Spring+Boot;API+Architect+%26+Engineering;Building+Scalable+APIs" alt="Typing SVG">
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hank0857t&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Hank0857t&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 
 ---
 
 ## ⚡ ABOUT ME
 
-```yaml
-- 🔭 I'm a Backend Developer specialized in Python & Java
-- ⚙️ I work with Django, FastAPI, Django REST Framework & DRF Spectacular
-- 🗄️ Experienced with PostgreSQL, MySQL, SQLite & Redis
-- 🐍 Building robust APIs and scalable backend systems
-- 🎯 Focused on performance, security & clean architecture
-- 📚 Constantly learning new technologies and best practices
+```json
+{
+  "developer": "Hank",
+  "role": "Backend Developer & API Architect",
+  "specialties": ["Python (FastAPI, Django, DRF)", "Java (Spring Boot)"],
+  "databases": ["PostgreSQL", "MySQL", "Redis", "SQLite"],
+  "focus": "Performance, Security & Scalable Architecture",
+  "status": "Active",
+  "motto": "Transforming complex logic into clean, scalable APIs"
+}
 ```
 
 ---
@@ -74,14 +75,7 @@
 ## 📊 GITHUB STATS
 
 <div align="center">
-  <a href="https://github.com/Hank0857t">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hank0857t&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=00D9FF&icon_color=1E90FF&text_color=ffffff&bg_color=0,000000,0F1629" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hank0857t&show_icons=true&locale=en&layout=compact&line_height=25&title_color=00D9FF&icon_color=1E90FF&text_color=ffffff&bg_color=0,000000,0F1629" width="375"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hank0857t&theme=midnight&hide_border=false&background=0F1629&stroke=00D9FF&ring=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&hide_total_stars=false" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hank0857t&theme=black-duotone&background=000000&fire=39FF14&ring=39FF14&currStreakNum=39FF14&currStreakLabel=E0E0E0&sideNums=E0E0E0&sideLabels=E0E0E0&dates=A0A0A0&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
@@ -89,42 +83,10 @@
 ## 📈 CONTRIBUTION GRAPH
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hank0857t&color=00D9FF&bg_color=0F1629&line=00D9FF&point=ffffff&area_color=0F1629&hide_border=true&area=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hank0857t&bg_color=000000&color=E0E0E0&line=39FF14&point=39FF14&area=true" alt="Contribution Graph">
 </div>
 
 ---
-
-## 🏆 GITHUB TROPHIES
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hank0857t&theme=midnight&column=6&margin-w=15&margin-h=15&no-frame=true">
-</div>
-
----
-
-## 📦 FEATURED REPOSITORY
-
-<div align="center">
-  <a href="https://github.com/Hank0857t/pelicula-fastapi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hank0857t&repo=pelicula-fastapi&theme=midnight&show_icons=true&show_owner=true&icon_color=00D9FF&title_color=00D9FF&text_color=ffffff&bg_color=0,000000,0F1629">
-  </a>
-</div>
-
----
-
-## 💡 PHILOSOPHY
-
-```
-╭───────────────────────────────────────────────────────────────────╮
-│                                                                   │
-│   "Code is poetry, simplicity is the ultimate form"               │
-│                                                                   │
-╰───────────────────────────────────────────────────────────────────╯
-```
-
----
-
-<div align="center">
 
 ## 🌐 CONNECT
 
@@ -134,7 +96,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 **⭐ Open for collaboration**
 
