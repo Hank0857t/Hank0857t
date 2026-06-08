@@ -19,7 +19,7 @@
   "developer": "Hank",
   "role": "Backend Developer & API Architect",
   "specialties": ["Python (FastAPI, Django, DRF)", "Java (Spring Boot)"],
-  "databases": ["PostgreSQL", "MySQL", "Redis", "SQLite"],
+  "databases": ["PostgreSQL", "MySQL"],
   "focus": "Performance, Security & Scalable Architecture",
   "status": "Active",
   "motto": "Transforming complex logic into clean, scalable APIs"
